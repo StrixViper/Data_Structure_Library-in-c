@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1721040277 source:c:\users\noam kedmi\desktop\data_structure_library\main.c
+	<stdio.h>
+	"stack.h"
+	"queue.h"
+	"linked_list.h"
+	"heap.h"
+	"graph.h"
+	"binary_tree.h"
+	"hash_table.h"
+	"array.h"
+
+1721040963 c:\users\noam kedmi\desktop\data_structure_library\stack.h
+
+1721040963 c:\users\noam kedmi\desktop\data_structure_library\queue.h
+
+1721040964 c:\users\noam kedmi\desktop\data_structure_library\linked_list.h
+
+1721040963 c:\users\noam kedmi\desktop\data_structure_library\heap.h
+
+1721040963 c:\users\noam kedmi\desktop\data_structure_library\graph.h
+
+1721040963 c:\users\noam kedmi\desktop\data_structure_library\binary_tree.h
+
+1721040963 c:\users\noam kedmi\desktop\data_structure_library\hash_table.h
+
+1721040963 c:\users\noam kedmi\desktop\data_structure_library\array.h
+
+1721038753 c:\users\noam kedmi\desktop\data_structure_library\stack.c
+
